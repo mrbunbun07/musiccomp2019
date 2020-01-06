@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kimdol",
-    "currentPage": "page8.html",
+    "currentPage": "music.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -7591,9 +7591,9 @@
         }
       ]
     },
-    "page8.html": {
+    "presentation.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "",
         "title": "Presentation",
         "order": 8
       },
